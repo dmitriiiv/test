@@ -9,8 +9,8 @@ import by.academy.dao.impl.RoleDaoImpl;
 import by.academy.dao.impl.TourDaoImpl;
 import by.academy.dao.impl.UserDaoImpl;
 import by.academy.entity.Role;
-import by.academy.entity.Tour;
 import by.academy.entity.User;
+import by.academy.entity.Tour;
 import static by.academy.util.PropertiesManager.MESSAGE;
 
 public class App 
